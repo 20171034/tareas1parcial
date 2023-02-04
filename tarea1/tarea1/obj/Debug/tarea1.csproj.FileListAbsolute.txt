@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\bin\Debug\tarea1.exe.config
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\bin\Debug\tarea1.exe
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\bin\Debug\tarea1.pdb
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.par.resources
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.exe
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas1parcial\tarea1\tarea1\obj\Debug\tarea1.pdb
